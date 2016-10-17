@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="vso-build-nb">2707387</entry>
+<entry key="pkg-description"/>
+<entry key="pkg-name">org.caf.test</entry>
+<entry key="used-plugins">PowerShell#1.0.6</entry>
+<entry key="pkg-signer">CN=VMWare,OU=VMWare,OU=VMWare,O=VMWare,C=US</entry>
+<entry key="vso-version">6.0.2.2707387 (6.0.2.2700137)</entry>
+<entry key="pkg-owner">CN=VMWare,OU=VMWare,OU=VMWare,O=VMWare,C=US</entry>
+<entry key="pkg-id">402881dd56b7e55d0156b7fa11690024</entry>
+</properties>
